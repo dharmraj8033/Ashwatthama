@@ -1,6 +1,6 @@
-requirements = """
 Flask
 httpx
 tensorflow
 numpy
-"""
+beautifulsoup4
+plotly
